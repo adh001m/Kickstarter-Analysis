@@ -13,18 +13,22 @@
 ### Analysis of Outcomes Based on Goals
   The success and failure rate of a play's campaign is directly related to its fundraising goal. Let's begin by disregarding the middle section of the graph because the vastly lower amount of play productions interferes with our percentage data. Disregarding the middle section, we see a high percentage of plays being successful in their fundraising campaign when there is a lower goal. Turning our attention towards the right side of the graph, we view several failed campaigns and very few successful campaigns as the fundraising goal increases.
 ### Challenges and Difficulties Encountered
-I initially struggled implementing the range for the Goal Outcome Chart using COUNTIFS() statements, however, after some research I facilitated my struggle.
+Initially I struggled implementing the range for the "Goal Outcome" Chart using COUNTIFS() statements, however, after some research I facilitated my struggle.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 1) Theater productions fundraising campaigns are most popular in May.
 2) Theater productions, under fundraising pretenses, are rarely canceled and usually enacted despite the inteded goal.
 
 - What can you conclude about the Outcomes based on Goals?
+
   It is ideal, for play productions, to set low fundraising goals in order to increase the likelihood of achieving their fundraising.
 
 - What are some limitations of this dataset?
+
   The "outcomes based on goals" data set is limited by the percentage rate. As quantities vastly decrease for "successful", "failed", and "canceled" outcomes, the realize that the lower ratios hold as much power as a higher ratio and therefore doesn't best reflect our data. For instance, a ratio of 1000 successful campaigns to zero failed campaigns is ultimately the same ratio as one failed campaign to zero successful campaigns.
 
 - What are some other possible tables and/or graphs that we could create?
+
   We could create a bar graph instead in order to view the amount of "successful", "failed", and "canceled" campaigns. This would allow us to avoid the confusion given by ratios by switching to a more organized numeric system. It is better to view the values of each campaign individually rather than as a ratio.
