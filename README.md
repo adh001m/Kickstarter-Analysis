@@ -5,9 +5,9 @@
 ### Purpose
   To familiarize oneself with basic excel commands for data filtration and analyzation, pivot tables, and charts. 
 ## Analysis and Challenges (Instructions)
-  -Outcomes based on Launch Date: Create a PivotTable based off Kickstarter data based filtering theater outcomes by launch date and sorting them as a "successful", "failed", or "canceled" theater campaign. Add a line graph to further interpret your data.
+  -Outcomes based on Launch Date:    Create a PivotTable based off Kickstarter data based filtering theater outcomes by launch date and sorting them as a "successful", "failed", or "canceled" theater campaign. Add a line graph to further interpret your data.
   
-  -Outcomes based on Goal: Use the "COUNTIFS()" statement to sort through "successful", "failed", and "canceled" play campaigns based off their intended goal range. Add a line graph to further interpret your data.
+  -Outcomes based on Goal:    Use the "COUNTIFS()" statement to sort through "successful", "failed", and "canceled" play campaigns based off their intended goal range. Add a line graph to further interpret your data.
 ### Analysis of Outcomes Based on Launch Date
   In the beginning of May there is a spike in theatrical productions as opposed to the end of November. The "Failed" and "Succesful" outcomes move quite uniformely throughout the line graph, on the other hand, the "canceled" productions remain at a low level all throughout the graph. In December, the amount of "successful" productions decreases and intersects an increasing "failed" production line. A possible explanation for this could be from an increase in christmas related productions from higher-end companies and performers, therefore, this would cause the quantity of lower end productions, with fundraising pretenses, to decrease. Switching over to view the "canceled" productions amount, we can assume that most theatrical productions, performed under fundraising pretenses, tend to be enacted disregarding the success or failure when meeting their fundraising goal. 
 ### Analysis of Outcomes Based on Goals
